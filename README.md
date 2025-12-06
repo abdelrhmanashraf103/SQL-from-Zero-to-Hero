@@ -17,3 +17,6 @@ Complete SQL journey from beginner to advanced
 - Theory + Practical Exercises
 - Portfolio Projects
 - Interview Preparation
+
+## 📊 Data Sources
+[Going to Data Source](https://drive.google.com/drive/folders/1KyJBlOpG0CxSvMQZu-7ypOxxpxESs-8G?usp=sharing)
